@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yanbing.chen\myApp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7c061330c2a987ce90d9a2dcb228c266d8ed00d5">
+        <dex dex="C:\Users\yanbing.chen\myApp\platforms\android\build\intermediates\pre-dexed\debug\classes-f622de3020fe44e03c3d35972fa229f9d03dc3a6.jar" />
+    </item>
+
+</items>

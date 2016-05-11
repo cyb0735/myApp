@@ -1,0 +1,2 @@
+C:\Users\yanbing.chen\myApp\platforms\android\build\intermediates\pre-dexed\debug\classes-f622de3020fe44e03c3d35972fa229f9d03dc3a6.jar
+C:\Users\yanbing.chen\myApp\platforms\android\build\intermediates\classes\debug
